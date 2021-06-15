@@ -12,3 +12,7 @@ One of the most interesting parts of the chatbot software space is the variety o
 
 * Rules-Based Chatbots – These chatbots follow pre-designed rules, often built using a graphical user interface where a bot builder will design paths using a decision tree.
 * AI Chatbots – AI chatbots will automatically learn after an initial training period by a bot developer.
+
+![chatboot](https://user-images.githubusercontent.com/73725029/122042495-2014ea80-cdd2-11eb-9ed0-cde44e21c974.png)
+![Chatbot-in-Python](https://user-images.githubusercontent.com/73725029/122042497-21461780-cdd2-11eb-9344-237e5f86ba3f.png)
+![2021-06-15 12_07_04-](https://user-images.githubusercontent.com/73725029/122042582-3e7ae600-cdd2-11eb-8a51-950137db3108.png)
